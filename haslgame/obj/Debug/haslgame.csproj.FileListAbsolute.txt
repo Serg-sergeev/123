@@ -1,0 +1,10 @@
+D:\trans\123\haslgame\bin\Debug\haslgame.exe.config
+D:\trans\123\haslgame\bin\Debug\haslgame.exe
+D:\trans\123\haslgame\bin\Debug\haslgame.pdb
+D:\trans\123\haslgame\obj\Debug\haslgame.csprojAssemblyReference.cache
+D:\trans\123\haslgame\obj\Debug\haslgame.Form1.resources
+D:\trans\123\haslgame\obj\Debug\haslgame.Properties.Resources.resources
+D:\trans\123\haslgame\obj\Debug\haslgame.csproj.GenerateResource.cache
+D:\trans\123\haslgame\obj\Debug\haslgame.csproj.CoreCompileInputs.cache
+D:\trans\123\haslgame\obj\Debug\haslgame.exe
+D:\trans\123\haslgame\obj\Debug\haslgame.pdb
